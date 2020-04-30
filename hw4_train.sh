@@ -1,0 +1,1 @@
+python ./Src/train.py $1 $2
